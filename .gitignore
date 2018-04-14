@@ -1,7 +1,6 @@
 Debug/
 
 .mxproject
-.project
 .settings/
 STM32F429.elf.launch
 mx.scratch
